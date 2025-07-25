@@ -1,8 +1,9 @@
-## Todo app
+## Todo App
 
-This project creates a simple TODO application
-it has following features -
+This project creates a simple TODO application.
 
--Anyone can create a TODO
--Anyone can see there existing TODOS
--Anyone can mark a TODO as done
+It has the following features:
+
+- Anyone can create a TODO  
+- Anyone can see their existing TODOs  
+- Anyone can mark a TODO as done
